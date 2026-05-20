@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=igorgabrieljf&label=Visualizações&color=0e75b6&style=flat" />
 </p>
@@ -38,14 +37,14 @@ Tenho experiência prática construindo plataformas web e mobile utilizando tecn
 
 <div align="center">
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript)
-![Python](https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python)
-![PHP](https://img.shields.io/badge/PHP-20232A?style=for-the-badge&logo=php)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-20232A?style=for-the-badge&logo=postgresql)
-![Supabase](https://img.shields.io/badge/Supabase-20232A?style=for-the-badge&logo=supabase)
-![Tailwind](https://img.shields.io/badge/Tailwind-20232A?style=for-the-badge&logo=tailwindcss)
-![Firebase](https://img.shields.io/badge/Firebase-20232A?style=for-the-badge&logo=firebase)
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript"/>
+<img src="https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/PHP-20232A?style=for-the-badge&logo=php"/>
+<img src="https://img.shields.io/badge/PostgreSQL-20232A?style=for-the-badge&logo=postgresql"/>
+<img src="https://img.shields.io/badge/Supabase-20232A?style=for-the-badge&logo=supabase"/>
+<img src="https://img.shields.io/badge/Tailwind-20232A?style=for-the-badge&logo=tailwindcss"/>
+<img src="https://img.shields.io/badge/Firebase-20232A?style=for-the-badge&logo=firebase"/>
 
 </div>
 
@@ -59,7 +58,7 @@ Tenho experiência prática construindo plataformas web e mobile utilizando tecn
 <tr>
 
 <td align="center" width="25%">
-<a href="https://igvale.com.br">
+<a href="https://igvale.com.br" target="_blank" rel="noopener noreferrer">
 <img src="https://igvale.com.br/assets/igvale-logo-F3BpmTEO.png" width="120"/>
 <br/><br/>
 <b>IGVALE SISTEMAS</b>
@@ -69,7 +68,7 @@ Tenho experiência prática construindo plataformas web e mobile utilizando tecn
 </td>
 
 <td align="center" width="25%">
-<a href="https://ordotrack.com.br">
+<a href="https://ordotrack.com.br" target="_blank" rel="noopener noreferrer">
 <img src="https://ordotrack.com.br/assets/logo-ordo-main-C6V3zMVe.png" width="120"/>
 <br/><br/>
 <b>Ordo Track</b>
@@ -79,7 +78,7 @@ Tenho experiência prática construindo plataformas web e mobile utilizando tecn
 </td>
 
 <td align="center" width="25%">
-<a href="https://pointfy.com.br">
+<a href="https://pointfy.com.br" target="_blank" rel="noopener noreferrer">
 <img src="https://pointfy.com.br/lovable-uploads/3923c61d-a3cd-4f84-adf0-c52d36487409.png" width="120"/>
 <br/><br/>
 <b>Pointfy</b>
@@ -89,7 +88,7 @@ Tenho experiência prática construindo plataformas web e mobile utilizando tecn
 </td>
 
 <td align="center" width="25%">
-<a href="https://valefinancas.com">
+<a href="https://valefinancas.com" target="_blank" rel="noopener noreferrer">
 <img src="https://valefin.lovable.app/lovable-uploads/f8262a62-2f6e-4ff7-83a0-eb9fdf75e750.png" width="120"/>
 <br/><br/>
 <b>ValeFin</b>
@@ -120,7 +119,9 @@ Sistema desenvolvido para substituir planilhas e centralizar controle financeiro
 - Capacitor
 - TailwindCSS
 
-🔗 https://ordotrack.com.br
+<a href="https://ordotrack.com.br" target="_blank" rel="noopener noreferrer">
+🔗 Acessar Ordo Track
+</a>
 
 ---
 
@@ -135,7 +136,9 @@ Plataforma moderna de controle de ponto e gestão operacional.
 - Dashboard executivo
 - Gestão de equipes externas
 
-🔗 https://pointfy.com.br
+<a href="https://pointfy.com.br" target="_blank" rel="noopener noreferrer">
+🔗 Acessar Pointfy
+</a>
 
 ---
 
@@ -150,7 +153,9 @@ Sistema voltado para gestão financeira internacional e operações de dropshipp
 - Fluxo financeiro
 - Importação inteligente de planilhas
 
-🔗 https://valefinancas.com
+<a href="https://valefinancas.com" target="_blank" rel="noopener noreferrer">
+🔗 Acessar ValeFin
+</a>
 
 ---
 
@@ -165,7 +170,9 @@ ERP empresarial representado pela IGVALE SISTEMAS.
 - Financeiro
 - Relatórios gerenciais
 
-🔗 https://igvale.com.br
+<a href="https://igvale.com.br" target="_blank" rel="noopener noreferrer">
+🔗 Acessar IGVALE
+</a>
 
 ---
 
@@ -214,19 +221,19 @@ ERP empresarial representado pela IGVALE SISTEMAS.
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/igorgabrieljf/">
+<a href="https://www.linkedin.com/in/igorgabrieljf/" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/LinkedIn-20232A?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://www.instagram.com/igorgabrieljf/">
+<a href="https://www.instagram.com/igorgabrieljf/" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/Instagram-20232A?style=for-the-badge&logo=instagram"/>
 </a>
 
-<a href="https://www.youtube.com/@igorfaysom">
+<a href="https://www.youtube.com/@igorfaysom" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/YouTube-20232A?style=for-the-badge&logo=youtube"/>
 </a>
 
-<a href="https://igvale.com.br">
+<a href="https://igvale.com.br" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/IGVALE-20232A?style=for-the-badge&logo=googlechrome"/>
 </a>
 
