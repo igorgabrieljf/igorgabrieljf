@@ -176,17 +176,22 @@ ERP empresarial representado pela IGVALE SISTEMAS.
 
 ---
 
+
+
 # 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api?username=igorgabrieljf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800" 
+  />
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=igorgabrieljf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorgabrieljf&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
----
+<p align="center">
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorgabrieljf&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=1800"/>
+</p>
 
 # 🔥 Contribuições
 
