@@ -217,6 +217,7 @@ ERP empresarial representado pela IGVALE SISTEMAS.
 
 ---
 
+
 # 🌐 Redes Sociais
 
 <div align="center">
@@ -229,7 +230,23 @@ ERP empresarial representado pela IGVALE SISTEMAS.
 <img src="https://img.shields.io/badge/Instagram-20232A?style=for-the-badge&logo=instagram"/>
 </a>
 
-<a href="https://www.youtube.com/@igorfaysom" target="_blank" rel="noopener noreferrer">
+<a href="https://www.facebook.com/@igorgabrieljf" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/Facebook-20232A?style=for-the-badge&logo=facebook"/>
+</a>
+
+<a href="https://www.threads.com/@igorgabrieljf" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/Threads-20232A?style=for-the-badge&logo=threads"/>
+</a>
+
+<a href="https://x.com/iigorgabrieljf" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/X(Twitter)-20232A?style=for-the-badge&logo=x"/>
+</a>
+
+<a href="https://br.pinterest.com/igorgabrieljf/" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/Pinterest-20232A?style=for-the-badge&logo=pinterest"/>
+</a>
+
+<a href="https://www.youtube.com/@iigorgabrieljf" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/YouTube-20232A?style=for-the-badge&logo=youtube"/>
 </a>
 
