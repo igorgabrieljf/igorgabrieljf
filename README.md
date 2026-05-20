@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=igorgabrieljf&label=Visualizações&color=0e75b6&style=flat" />
+</p>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,100:1E293B&text=Igor%20Gabriel&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Founder%20%7C%20Full%20Stack%20Developer%20%7C%20SaaS%20Builder&descAlignY=58"/>
 
 <div align="center">
@@ -10,7 +15,7 @@
 Desenvolvedor e empreendedor focado em criar sistemas inteligentes, automações e plataformas SaaS que resolvem problemas reais.
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com/?color=22C55E&size=24&center=true&vCenter=true&width=900&lines=React.js+%7C+TypeScript+%7C+Python+%7C+PHP;Founder+da+IGVALE+SISTEMAS;Criando+SaaS+e+Solu%C3%A7%C3%B5es+Inteligentes;Automação+%7C+B2B+%7C+Dropshipping+%7C+Gestão;Tecnologia+para+empresas+que+querem+evoluir"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Founder+da+IGVALE+SISTEMAS;Criando+Solu%C3%A7%C3%B5es+SaaS;React.js+%7C+TypeScript+%7C+Python"/>
 
 </div>
 
@@ -46,18 +51,57 @@ Tenho experiência prática construindo plataformas web e mobile utilizando tecn
 
 ---
 
-# 🏢 IGVALE SISTEMAS
+# 🚀 Plataformas & Produtos
 
-A **IGVALE SISTEMAS LTDA** desenvolve soluções modernas para empresas que desejam mais organização, automação e crescimento através da tecnologia.
+<div align="center">
 
-### Principais soluções:
+<table>
+<tr>
 
-| Plataforma | Descrição |
-|---|---|
-| 🚀 **Ordo Track** | Gestão financeira inteligente e produtividade |
-| 📍 **Pointfy** | Controle de ponto, jornada e equipes com geolocalização |
-| 🌎 **ValeFin** | Gestão financeira internacional para operações multicontas |
-| 🏪 **SG Master** | ERP completo para gestão empresarial |
+<td align="center" width="25%">
+<a href="https://igvale.com.br">
+<img src="https://igvale.com.br/assets/igvale-logo-F3BpmTEO.png" width="120"/>
+<br/><br/>
+<b>IGVALE SISTEMAS</b>
+</a>
+<br/>
+<sub>Tecnologia & Automação Empresarial</sub>
+</td>
+
+<td align="center" width="25%">
+<a href="https://ordotrack.com.br">
+<img src="https://ordotrack.com.br/assets/logo-ordo-main-C6V3zMVe.png" width="120"/>
+<br/><br/>
+<b>Ordo Track</b>
+</a>
+<br/>
+<sub>Gestão Financeira Inteligente</sub>
+</td>
+
+<td align="center" width="25%">
+<a href="https://pointfy.com.br">
+<img src="https://pointfy.com.br/lovable-uploads/3923c61d-a3cd-4f84-adf0-c52d36487409.png" width="120"/>
+<br/><br/>
+<b>Pointfy</b>
+</a>
+<br/>
+<sub>Ponto & Gestão Operacional</sub>
+</td>
+
+<td align="center" width="25%">
+<a href="https://valefinancas.com">
+<img src="https://valefin.lovable.app/lovable-uploads/f8262a62-2f6e-4ff7-83a0-eb9fdf75e750.png" width="120"/>
+<br/><br/>
+<b>ValeFin</b>
+</a>
+<br/>
+<sub>Gestão Financeira Global</sub>
+</td>
+
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -151,6 +195,12 @@ ERP empresarial representado pela IGVALE SISTEMAS.
 
 <div align="center">
 
+<img src="https://github-profile-trophy.vercel.app/?username=igorgabrieljf&theme=tokyonight&row=1&column=6"/>
+
+</div>
+
+<div align="center">
+
 🏆 Vibe Coding L5 Diamond  
 🚀 Founder da IGVALE SISTEMAS  
 💡 Criador de múltiplas plataformas SaaS  
@@ -177,8 +227,18 @@ ERP empresarial representado pela IGVALE SISTEMAS.
 </a>
 
 <a href="https://igvale.com.br">
-<img src="https://img.shields.io/badge/Site%20IGVALE-20232A?style=for-the-badge&logo=googlechrome"/>
+<img src="https://img.shields.io/badge/IGVALE-20232A?style=for-the-badge&logo=googlechrome"/>
 </a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Construindo soluções reais para problemas reais.
+
+<img src="https://skillicons.dev/icons?i=react,ts,python,php,postgres,supabase,tailwind,git,github"/>
 
 </div>
 
