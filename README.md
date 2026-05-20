@@ -59,17 +59,17 @@ Tenho experiência prática construindo plataformas web e mobile utilizando tecn
 
 <td align="center" width="25%">
 <a href="https://igvale.com.br" target="_blank" rel="noopener noreferrer">
-<img src="https://igvale.com.br/assets/igvale-logo-F3BpmTEO.png" width="120"/>
+<img src="/Igvale.png" width="120"/>
 <br/><br/>
-<b>IGVALE SISTEMAS</b>
+<b>Igvale Sistemas</b>
 </a>
 <br/>
-<sub>Tecnologia & Automação Empresarial</sub>
+<sub>Automação Empresarial</sub>
 </td>
 
 <td align="center" width="25%">
 <a href="https://ordotrack.com.br" target="_blank" rel="noopener noreferrer">
-<img src="https://ordotrack.com.br/assets/logo-ordo-main-C6V3zMVe.png" width="120"/>
+<img src="/Ordo1.png" width="120"/>
 <br/><br/>
 <b>Ordo Track</b>
 </a>
@@ -79,7 +79,7 @@ Tenho experiência prática construindo plataformas web e mobile utilizando tecn
 
 <td align="center" width="25%">
 <a href="https://pointfy.com.br" target="_blank" rel="noopener noreferrer">
-<img src="https://pointfy.com.br/lovable-uploads/3923c61d-a3cd-4f84-adf0-c52d36487409.png" width="120"/>
+<img src="PointFy.png" width="120"/>
 <br/><br/>
 <b>Pointfy</b>
 </a>
@@ -89,7 +89,7 @@ Tenho experiência prática construindo plataformas web e mobile utilizando tecn
 
 <td align="center" width="25%">
 <a href="https://valefinancas.com" target="_blank" rel="noopener noreferrer">
-<img src="https://valefin.lovable.app/lovable-uploads/f8262a62-2f6e-4ff7-83a0-eb9fdf75e750.png" width="120"/>
+<img src="Vale Finanças.png" width="120"/>
 <br/><br/>
 <b>ValeFin</b>
 </a>
