@@ -1,4 +1,3 @@
-```md
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,100:1E293B&text=Igor%20Gabriel&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Founder%20%7C%20Full%20Stack%20Developer%20%7C%20SaaS%20Builder&descAlignY=58"/>
 
 <div align="center">
@@ -192,4 +191,3 @@ ERP empresarial representado pela IGVALE SISTEMAS.
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,100:1E293B"/>
 
 </div>
-```
